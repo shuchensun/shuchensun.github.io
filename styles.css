@@ -47,8 +47,7 @@ a:hover {
   gap: 24px;
   padding: 16px clamp(20px, 4vw, 56px);
   border-bottom: 1px solid rgba(221, 216, 206, 0.82);
-  background: rgba(247, 246, 241, 0.92);
-  backdrop-filter: blur(16px);
+  background: rgba(247, 246, 241, 0.96);
 }
 
 .wordmark {
